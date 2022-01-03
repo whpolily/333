@@ -2,6 +2,8 @@
 开奖结果kjjg.app最新下载</h2>
 <ul dir="auto" style="box-sizing: border-box; padding-left: 2em; margin-top: 0px; margin-bottom: 16px; color: rgb(36, 41, 47); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
 	<li style="box-sizing: border-box;"><img src="https://raw.githubusercontent.com/whpolily/kjjg.app/main/ewm.png">
+	</li>
+	<li style="box-sizing: border-box;">
 	<a rel="nofollow" style="box-sizing: border-box; color: var(--color-accent-fg); text-decoration: none; background-color: transparent" href="https://github.com/whpolily/333/releases/download/kj/kj.apk">点此下载▶▶ Android下载地址 ◀◀</a></li>
 	<li style="box-sizing: border-box;">
 	<a rel="nofollow" style="box-sizing: border-box; color: var(--color-accent-fg); text-decoration: none; background-color: transparent" href="https://github.com/whpolily/333/releases/download/kj/kj.apk">点此下载▶▶ Android下载地址 ◀◀</a></li>
